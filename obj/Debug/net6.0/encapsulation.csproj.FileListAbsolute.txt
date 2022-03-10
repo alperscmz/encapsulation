@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfo.cs
+C:\Users\alper\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.exe
+C:\Users\alper\Desktop\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.deps.json
+C:\Users\alper\Desktop\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.runtimeconfig.json
+C:\Users\alper\Desktop\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.dll
+C:\Users\alper\Desktop\Pratikler\encapsulation\bin\Debug\net6.0\ref\encapsulation.dll
+C:\Users\alper\Desktop\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.pdb
+C:\Users\alper\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.dll
+C:\Users\alper\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\ref\encapsulation.dll
+C:\Users\alper\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.pdb
+C:\Users\alper\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.genruntimeconfig.cache
